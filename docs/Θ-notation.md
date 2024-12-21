@@ -1,0 +1,4 @@
+- characterized as *tight bound* on asymptotic behavior
+- says that **functions grows precisely at a certain rate**
+- rate of growth function bound within a constant factor from above and below
+- if you can show that a function is both $O(f(n))$ and $Ω(f(n))$ then you have shown that the function is $Θ(f(n))$
